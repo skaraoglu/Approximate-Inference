@@ -85,7 +85,6 @@ class BayesianNetwork:
 
     def calculate_conditional_probability(self, node, X):
         # Calculate the conditional probability P(node | parents(node), children(node), parents(children(node)))
-        # This function needs to be implemented according to the structure and parameters of your Bayesian network
         parents = self.bn_data[node]['parents']
         parent_values = [X[str(parent)] for parent in parents]
 
