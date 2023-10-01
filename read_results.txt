@@ -1,0 +1,248 @@
+Bayesian Network: 50p.json
+Method: Exact inference
+Mean run time: 0.33500763348170687
+Standard deviation of run time: 0.020479594456983625
+
+Method: lw
+Mean run time: 7.845392090933664
+Standard deviation of run time: 0.15719836252321007
+Variation in converged probabilities: 0.16039553115449254
+
+Method: gs
+Mean run time: 1.515544823237828
+Standard deviation of run time: 0.05146265899378176
+Variation in converged probabilities: 0.2583678986182592
+
+Method: mh_0.75
+Mean run time: 3.0840506894247874
+Standard deviation of run time: 0.42499268325550194
+Variation in converged probabilities: 0.2130829334198622
+
+Method: mh_0.85
+Mean run time: 2.5819527762276784
+Standard deviation of run time: 0.3105049765287388
+Variation in converged probabilities: 0.23018802223956733
+
+Method: mh_0.95
+Mean run time: 1.9444210529327393
+Standard deviation of run time: 0.26590380633883903
+Variation in converged probabilities: 0.24486912619988127
+
+
+Bayesian Network: 25p.json
+Method: Exact inference
+Mean run time: 0.3194155011858259
+Standard deviation of run time: 0.005800281799086177
+
+Method: lw
+Mean run time: 3.1737259796687534
+Standard deviation of run time: 0.03502629068617538
+Variation in converged probabilities: 0.06969245072941467
+
+Method: gs
+Mean run time: 0.8065366744995117
+Standard deviation of run time: 0.06536349896386223
+Variation in converged probabilities: 0.1835677879803272
+
+Method: mh_0.75
+Mean run time: 1.267695358821324
+Standard deviation of run time: 0.1316549936542617
+Variation in converged probabilities: 0.14270973096085424
+
+Method: mh_0.85
+Mean run time: 1.0568691321781702
+Standard deviation of run time: 0.061160828062343325
+Variation in converged probabilities: 0.15388131814370903
+
+Method: mh_0.95
+Mean run time: 0.799771819795881
+Standard deviation of run time: 0.09621521328027924
+Variation in converged probabilities: 0.17343037514729634
+
+
+Bayesian Network: 25d.json
+Method: Exact inference
+Mean run time: 0.32272325243268696
+Standard deviation of run time: 0.00512719945526099
+
+Method: lw
+Mean run time: 6.272807461874826
+Standard deviation of run time: 0.04054273625308024
+Variation in converged probabilities: 0.11665108179288398
+
+Method: gs
+Mean run time: 1.334183726991926
+Standard deviation of run time: 0.049053182151936
+Variation in converged probabilities: 0.09273185234708024
+
+Method: mh_0.75
+Mean run time: 2.384934527533395
+Standard deviation of run time: 0.24467119959239222
+Variation in converged probabilities: 0.09054398027652574
+
+Method: mh_0.85
+Mean run time: 1.946049724306379
+Standard deviation of run time: 0.15062431178314875
+Variation in converged probabilities: 0.08832554486675291
+
+Method: mh_0.95
+Mean run time: 1.4872449125562395
+Standard deviation of run time: 0.0738710604963892
+Variation in converged probabilities: 0.08913517690552623
+
+
+Bayesian Network: 10d.json
+Method: Exact inference
+Mean run time: 0.31556435993739534
+Standard deviation of run time: 0.0026656526399963577
+
+Method: lw
+Mean run time: 1.8115900244031633
+Standard deviation of run time: 0.06846092498897964
+Variation in converged probabilities: 0.039627910540365074
+
+Method: gs
+Mean run time: 0.3955161230904715
+Standard deviation of run time: 0.01974727446464279
+Variation in converged probabilities: 0.0911394297389946
+
+Method: mh_0.75
+Mean run time: 0.7198222024100167
+Standard deviation of run time: 0.09727762285024401
+Variation in converged probabilities: 0.06772837509980197
+
+Method: mh_0.85
+Mean run time: 0.5820983818599156
+Standard deviation of run time: 0.03837889259783972
+Variation in converged probabilities: 0.07348567744728914
+
+Method: mh_0.95
+Mean run time: 0.46140936442783903
+Standard deviation of run time: 0.04961754371122605
+Variation in converged probabilities: 0.08599878286170812
+
+
+Bayesian Network: 100p.json
+Method: Exact inference
+Mean run time: 0.3289385863712856
+Standard deviation of run time: 0.007565274923757465
+
+Method: lw
+Mean run time: 17.811033010482788
+Standard deviation of run time: 0.4691796497628435
+Variation in converged probabilities: 0.08204311080372773
+
+Method: gs
+Mean run time: 3.6594714437212263
+Standard deviation of run time: 0.18242056043534907
+Variation in converged probabilities: 0.09358511593945476
+
+Method: mh_0.75
+Mean run time: 6.4814749785832
+Standard deviation of run time: 0.7998303886605006
+Variation in converged probabilities: 0.07918785142453204
+
+Method: mh_0.85
+Mean run time: 5.297452279499599
+Standard deviation of run time: 0.577984204087586
+Variation in converged probabilities: 0.08180806438545186
+
+Method: mh_0.95
+Mean run time: 4.115438120705741
+Standard deviation of run time: 0.29082668302856857
+Variation in converged probabilities: 0.08451868572628382
+
+
+Bayesian Network: 50d.json
+Method: Exact inference
+Mean run time: 0.3304957321711949
+Standard deviation of run time: 0.019939410654746487
+
+Method: lw
+Mean run time: 15.087469509669713
+Standard deviation of run time: 0.5150933236840777
+Variation in converged probabilities: 0.11082157596541499
+
+Method: gs
+Mean run time: 2.9340767860412598
+Standard deviation of run time: 0.06667230879935045
+Variation in converged probabilities: 0.10900489954020046
+
+Method: mh_0.75
+Mean run time: 5.945906809398106
+Standard deviation of run time: 0.6383160814492803
+Variation in converged probabilities: 0.10487898994114105
+
+Method: mh_0.85
+Mean run time: 4.860759394509452
+Standard deviation of run time: 0.2874197112842237
+Variation in converged probabilities: 0.10890571765442311
+
+Method: mh_0.95
+Mean run time: 3.8266420364379883
+Standard deviation of run time: 0.2216817567993186
+Variation in converged probabilities: 0.1056593798843025
+
+
+Bayesian Network: 10p.json
+Method: Exact inference
+Mean run time: 0.31871931893484934
+Standard deviation of run time: 0.0053407372946578414
+
+Method: lw
+Mean run time: 1.794133526938302
+Standard deviation of run time: 0.04334289619030814
+Variation in converged probabilities: 0.06569547976198252
+
+Method: gs
+Mean run time: 0.30415429387773785
+Standard deviation of run time: 0.011236232305915453
+Variation in converged probabilities: 0.16438916073476445
+
+Method: mh_0.75
+Mean run time: 0.6450701100485665
+Standard deviation of run time: 0.09097648514178894
+Variation in converged probabilities: 0.10402401387246926
+
+Method: mh_0.85
+Mean run time: 0.5110362257276263
+Standard deviation of run time: 0.05801479091344491
+Variation in converged probabilities: 0.12822355395639817
+
+Method: mh_0.95
+Mean run time: 0.36816464151654926
+Standard deviation of run time: 0.03651160817212774
+Variation in converged probabilities: 0.15684618320143634
+
+
+Bayesian Network: 100d.json
+Method: Exact inference
+Mean run time: 0.332986797605242
+Standard deviation of run time: 0.004579220671292924
+
+Method: lw
+Mean run time: 32.3641539982387
+Standard deviation of run time: 0.5879233641241722
+Variation in converged probabilities: 0.11010414278488216
+
+Method: gs
+Mean run time: 7.448112419673374
+Standard deviation of run time: 0.3875192505210755
+Variation in converged probabilities: 0.07889108082425197
+
+Method: mh_0.75
+Mean run time: 12.897663933890206
+Standard deviation of run time: 1.0445659124597808
+Variation in converged probabilities: 0.0900864947705968
+
+Method: mh_0.85
+Mean run time: 10.658613647733416
+Standard deviation of run time: 0.48740794129893084
+Variation in converged probabilities: 0.08289274654061075
+
+Method: mh_0.95
+Mean run time: 8.083588395799909
+Standard deviation of run time: 0.42796815010348205
+Variation in converged probabilities: 0.08065883428816915
+
+

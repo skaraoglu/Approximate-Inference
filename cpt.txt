@@ -1,0 +1,48 @@
+Bayesian Network: 10p
+Method: lw, Average Relative Effectiveness: 0.24263360434297015
+Method: gs, Average Relative Effectiveness: 0.23310860434297012
+Method: mh_0.75, Average Relative Effectiveness: 0.23784610434297018
+Method: mh_0.85, Average Relative Effectiveness: 0.23368360434297014
+Method: mh_0.95, Average Relative Effectiveness: 0.2296586043429702
+Bayesian Network: 10d
+Method: lw, Average Relative Effectiveness: 0.3446839207455361
+Method: gs, Average Relative Effectiveness: 0.37749642074553613
+Method: mh_0.75, Average Relative Effectiveness: 0.37180892074553606
+Method: mh_0.85, Average Relative Effectiveness: 0.37462142074553617
+Method: mh_0.95, Average Relative Effectiveness: 0.3754089207455361
+Bayesian Network: 25p
+Method: lw, Average Relative Effectiveness: 0.15360895802523078
+Method: gs, Average Relative Effectiveness: 0.23505895802523077
+Method: mh_0.75, Average Relative Effectiveness: 0.21349645802523076
+Method: mh_0.85, Average Relative Effectiveness: 0.21863395802523075
+Method: mh_0.95, Average Relative Effectiveness: 0.22898395802523075
+Bayesian Network: 25d
+Method: lw, Average Relative Effectiveness: 0.17797720868251637
+Method: gs, Average Relative Effectiveness: 0.1878772086825163
+Method: mh_0.75, Average Relative Effectiveness: 0.18887720868251634
+Method: mh_0.85, Average Relative Effectiveness: 0.19121470868251633
+Method: mh_0.95, Average Relative Effectiveness: 0.19421470868251633
+Bayesian Network: 50p
+Method: lw, Average Relative Effectiveness: 0.2994643922799441
+Method: gs, Average Relative Effectiveness: 0.32000189227995035
+Method: mh_0.75, Average Relative Effectiveness: 0.3148893922799503
+Method: mh_0.85, Average Relative Effectiveness: 0.31576439227995035
+Method: mh_0.95, Average Relative Effectiveness: 0.31955189227995034
+Bayesian Network: 50d
+Method: lw, Average Relative Effectiveness: 0.2601968755848373
+Method: gs, Average Relative Effectiveness: 0.2782218755848373
+Method: mh_0.75, Average Relative Effectiveness: 0.27894687558483733
+Method: mh_0.85, Average Relative Effectiveness: 0.2769968755848373
+Method: mh_0.95, Average Relative Effectiveness: 0.2801843755848373
+Bayesian Network: 100p
+Method: lw, Average Relative Effectiveness: 0.12675716973298914
+Method: gs, Average Relative Effectiveness: 0.15038216973298912
+Method: mh_0.75, Average Relative Effectiveness: 0.14749466973298914
+Method: mh_0.85, Average Relative Effectiveness: 0.14589466973298915
+Method: mh_0.95, Average Relative Effectiveness: 0.15113216973298915
+Bayesian Network: 100d
+Method: lw, Average Relative Effectiveness: 0.21731355157454363
+Method: gs, Average Relative Effectiveness: 0.2444135515745436
+Method: mh_0.75, Average Relative Effectiveness: 0.23851355157454363
+Method: mh_0.85, Average Relative Effectiveness: 0.2414760515745436
+Method: mh_0.95, Average Relative Effectiveness: 0.24298855157454358

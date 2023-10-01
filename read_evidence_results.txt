@@ -1,0 +1,465 @@
+Bayesian Network: 10p.json, Method: Exact inference, Evidence: {'5': 1}
+Mean run time: 0.31905082293919157
+Standard deviation of run time: 0.004122513982014506
+
+Bayesian Network: 10p.json, Method: lw, Evidence: {'5': 1}
+Mean run time: 1.7405178546905518
+Standard deviation of run time: 0.11551271673084244
+Variation in converged probabilities: 0.05074412606046862
+
+Bayesian Network: 10p.json, Method: gs, Evidence: {'5': 1}
+Mean run time: 0.3312704563140869
+Standard deviation of run time: 0.03693862288497224
+Variation in converged probabilities: 0.15867565648708634
+
+Bayesian Network: 10p.json, Method: mh_0.75, Evidence: {'5': 1}
+Mean run time: 0.6059323038373675
+Standard deviation of run time: 0.118892143455036
+Variation in converged probabilities: 0.09216362824471476
+
+Bayesian Network: 10p.json, Method: mh_0.85, Evidence: {'5': 1}
+Mean run time: 0.5203108787536621
+Standard deviation of run time: 0.07921470370072227
+Variation in converged probabilities: 0.11377545674916682
+
+Bayesian Network: 10p.json, Method: mh_0.95, Evidence: {'5': 1}
+Mean run time: 0.39214134216308594
+Standard deviation of run time: 0.052202693332644844
+Variation in converged probabilities: 0.1396292203550327
+
+Bayesian Network: 10p.json, Method: Exact inference, Evidence: {'6': 1}
+Mean run time: 0.37046939986092703
+Standard deviation of run time: 0.05203347213637548
+
+Bayesian Network: 10p.json, Method: lw, Evidence: {'6': 1}
+Mean run time: 1.568082673209054
+Standard deviation of run time: 0.09343313362834284
+Variation in converged probabilities: 0.051960903655108026
+
+Bayesian Network: 10p.json, Method: gs, Evidence: {'6': 1}
+Mean run time: 0.3109440803527832
+Standard deviation of run time: 0.03910383220049226
+Variation in converged probabilities: 0.15646355384820784
+
+Bayesian Network: 10p.json, Method: mh_0.75, Evidence: {'6': 1}
+Mean run time: 0.6169487748827253
+Standard deviation of run time: 0.047602224612407665
+Variation in converged probabilities: 0.08884991844660108
+
+Bayesian Network: 10p.json, Method: mh_0.85, Evidence: {'6': 1}
+Mean run time: 0.4998868192945208
+Standard deviation of run time: 0.05398922932125228
+Variation in converged probabilities: 0.11917297960107572
+
+Bayesian Network: 10p.json, Method: mh_0.95, Evidence: {'6': 1}
+Mean run time: 0.3852199486323765
+Standard deviation of run time: 0.055043280941037276
+Variation in converged probabilities: 0.1403606350742819
+
+Bayesian Network: 10d.json, Method: Exact inference, Evidence: {'4': 1}
+Mean run time: 0.5062849521636963
+Standard deviation of run time: 0.0774741811797965
+
+Bayesian Network: 10d.json, Method: lw, Evidence: {'4': 1}
+Mean run time: 2.298413412911551
+Standard deviation of run time: 0.26942187458999717
+Variation in converged probabilities: 0.19199994647195692
+
+Bayesian Network: 10d.json, Method: gs, Evidence: {'4': 1}
+Mean run time: 0.49466991424560547
+Standard deviation of run time: 0.09920537208058952
+Variation in converged probabilities: 0.1737877011553097
+
+Bayesian Network: 10d.json, Method: mh_0.75, Evidence: {'4': 1}
+Mean run time: 0.8822039876665387
+Standard deviation of run time: 0.26170505899724716
+Variation in converged probabilities: 0.17275146084044585
+
+Bayesian Network: 10d.json, Method: mh_0.85, Evidence: {'4': 1}
+Mean run time: 0.7774518557957241
+Standard deviation of run time: 0.23781010586063842
+Variation in converged probabilities: 0.1733263865644447
+
+Bayesian Network: 10d.json, Method: mh_0.95, Evidence: {'4': 1}
+Mean run time: 0.568744386945452
+Standard deviation of run time: 0.09963714866489175
+Variation in converged probabilities: 0.17508427905253598
+
+Bayesian Network: 10d.json, Method: Exact inference, Evidence: {'5': 0}
+Mean run time: 0.3636839049203055
+Standard deviation of run time: 0.02977163985793225
+
+Bayesian Network: 10d.json, Method: lw, Evidence: {'5': 0}
+Mean run time: 2.1490650177001953
+Standard deviation of run time: 0.05889239517625819
+Variation in converged probabilities: 0.19056296514579005
+
+Bayesian Network: 10d.json, Method: gs, Evidence: {'5': 0}
+Mean run time: 0.5250579629625592
+Standard deviation of run time: 0.07929754559683982
+Variation in converged probabilities: 0.1786300451728522
+
+Bayesian Network: 10d.json, Method: mh_0.75, Evidence: {'5': 0}
+Mean run time: 0.9331632341657367
+Standard deviation of run time: 0.09280932505951649
+Variation in converged probabilities: 0.16653168366235477
+
+Bayesian Network: 10d.json, Method: mh_0.85, Evidence: {'5': 0}
+Mean run time: 0.7935326780591693
+Standard deviation of run time: 0.06109499085355995
+Variation in converged probabilities: 0.1744930386674921
+
+Bayesian Network: 10d.json, Method: mh_0.95, Evidence: {'5': 0}
+Mean run time: 0.6108706678662982
+Standard deviation of run time: 0.03382750451181525
+Variation in converged probabilities: 0.17681731558858868
+
+Bayesian Network: 25p.json, Method: Exact inference, Evidence: {'2': 0}
+Mean run time: 0.3544905185699463
+Standard deviation of run time: 0.02539554488727989
+
+Bayesian Network: 25p.json, Method: lw, Evidence: {'2': 0}
+Mean run time: 3.867971590587071
+Standard deviation of run time: 0.29358766143821236
+Variation in converged probabilities: 0.061096573292472846
+
+Bayesian Network: 25p.json, Method: gs, Evidence: {'2': 0}
+Mean run time: 0.8451243809291294
+Standard deviation of run time: 0.035902086726448484
+Variation in converged probabilities: 0.1641681425768918
+
+Bayesian Network: 25p.json, Method: mh_0.75, Evidence: {'2': 0}
+Mean run time: 1.481036594935826
+Standard deviation of run time: 0.146681811857821
+Variation in converged probabilities: 0.11787044338533478
+
+Bayesian Network: 25p.json, Method: mh_0.85, Evidence: {'2': 0}
+Mean run time: 1.3069305760519845
+Standard deviation of run time: 0.15194536001940948
+Variation in converged probabilities: 0.13465705196038075
+
+Bayesian Network: 25p.json, Method: mh_0.95, Evidence: {'2': 0}
+Mean run time: 0.9832024914877755
+Standard deviation of run time: 0.04314194986103558
+Variation in converged probabilities: 0.15247934164454652
+
+Bayesian Network: 25p.json, Method: Exact inference, Evidence: {'5': 1}
+Mean run time: 0.3257652350834438
+Standard deviation of run time: 0.004829376651456998
+
+Bayesian Network: 25p.json, Method: lw, Evidence: {'5': 1}
+Mean run time: 3.5216803210122243
+Standard deviation of run time: 0.09862561866754731
+Variation in converged probabilities: 0.0632620725456542
+
+Bayesian Network: 25p.json, Method: gs, Evidence: {'5': 1}
+Mean run time: 0.8878610815320697
+Standard deviation of run time: 0.051582658993290884
+Variation in converged probabilities: 0.16251666758203093
+
+Bayesian Network: 25p.json, Method: mh_0.75, Evidence: {'5': 1}
+Mean run time: 1.45907838003976
+Standard deviation of run time: 0.18929374213314684
+Variation in converged probabilities: 0.11893043293644305
+
+Bayesian Network: 25p.json, Method: mh_0.85, Evidence: {'5': 1}
+Mean run time: 1.249842848096575
+Standard deviation of run time: 0.11300911371815156
+Variation in converged probabilities: 0.13911031307800492
+
+Bayesian Network: 25p.json, Method: mh_0.95, Evidence: {'5': 1}
+Mean run time: 0.9739125796726772
+Standard deviation of run time: 0.13729299059261807
+Variation in converged probabilities: 0.15458056727305067
+
+Bayesian Network: 25d.json, Method: Exact inference, Evidence: {'4': 0}
+Mean run time: 0.3166498456682478
+Standard deviation of run time: 0.003436939301038957
+
+Bayesian Network: 25d.json, Method: lw, Evidence: {'4': 0}
+Mean run time: 6.649595873696463
+Standard deviation of run time: 0.18499466594479685
+Variation in converged probabilities: 0.11134145402827358
+
+Bayesian Network: 25d.json, Method: gs, Evidence: {'4': 0}
+Mean run time: 1.3408078125544958
+Standard deviation of run time: 0.08140605059802951
+Variation in converged probabilities: 0.09501163554026906
+
+Bayesian Network: 25d.json, Method: mh_0.75, Evidence: {'4': 0}
+Mean run time: 2.5797088146209717
+Standard deviation of run time: 0.31772982194479993
+Variation in converged probabilities: 0.09427845840033003
+
+Bayesian Network: 25d.json, Method: mh_0.85, Evidence: {'4': 0}
+Mean run time: 2.1034555435180664
+Standard deviation of run time: 0.19784487264000264
+Variation in converged probabilities: 0.09641381458908979
+
+Bayesian Network: 25d.json, Method: mh_0.95, Evidence: {'4': 0}
+Mean run time: 1.6043047223772322
+Standard deviation of run time: 0.10757884997520883
+Variation in converged probabilities: 0.09673410833320419
+
+Bayesian Network: 25d.json, Method: Exact inference, Evidence: {'5': 1}
+Mean run time: 0.3172628879547119
+Standard deviation of run time: 0.004482459662838235
+
+Bayesian Network: 25d.json, Method: lw, Evidence: {'5': 1}
+Mean run time: 6.146882091249738
+Standard deviation of run time: 0.08919080521879495
+Variation in converged probabilities: 0.10925686560181717
+
+Bayesian Network: 25d.json, Method: gs, Evidence: {'5': 1}
+Mean run time: 1.3396595205579485
+Standard deviation of run time: 0.14273438757927853
+Variation in converged probabilities: 0.08421722695227053
+
+Bayesian Network: 25d.json, Method: mh_0.75, Evidence: {'5': 1}
+Mean run time: 2.406423670904977
+Standard deviation of run time: 0.17509233059282103
+Variation in converged probabilities: 0.09795090307964795
+
+Bayesian Network: 25d.json, Method: mh_0.85, Evidence: {'5': 1}
+Mean run time: 2.0135086945125034
+Standard deviation of run time: 0.10426104889068175
+Variation in converged probabilities: 0.09956844656369199
+
+Bayesian Network: 25d.json, Method: mh_0.95, Evidence: {'5': 1}
+Mean run time: 1.5210986137390137
+Standard deviation of run time: 0.07914728790849532
+Variation in converged probabilities: 0.10023392935238278
+
+Bayesian Network: 50p.json, Method: Exact inference, Evidence: {'5': 0}
+Mean run time: 0.3188343048095703
+Standard deviation of run time: 0.0056913209857969715
+
+Bayesian Network: 50p.json, Method: lw, Evidence: {'5': 0}
+Mean run time: 7.984462193080357
+Standard deviation of run time: 0.19431709088057558
+Variation in converged probabilities: 0.13920360820267985
+
+Bayesian Network: 50p.json, Method: gs, Evidence: {'5': 0}
+Mean run time: 1.4883131299700056
+Standard deviation of run time: 0.09104069873472749
+Variation in converged probabilities: 0.18936643642635578
+
+Bayesian Network: 50p.json, Method: mh_0.75, Evidence: {'5': 0}
+Mean run time: 3.170938014984131
+Standard deviation of run time: 0.3883334005044143
+Variation in converged probabilities: 0.15650273869881023
+
+Bayesian Network: 50p.json, Method: mh_0.85, Evidence: {'5': 0}
+Mean run time: 2.6653130735669817
+Standard deviation of run time: 0.24650824040713848
+Variation in converged probabilities: 0.16978777421095076
+
+Bayesian Network: 50p.json, Method: mh_0.95, Evidence: {'5': 0}
+Mean run time: 2.0680007253374373
+Standard deviation of run time: 0.19331263279051988
+Variation in converged probabilities: 0.18112006399832267
+
+Bayesian Network: 50p.json, Method: Exact inference, Evidence: {'6': 1}
+Mean run time: 0.31664609909057617
+Standard deviation of run time: 0.005159594470157273
+
+Bayesian Network: 50p.json, Method: lw, Evidence: {'6': 1}
+Mean run time: 7.254686253411429
+Standard deviation of run time: 0.16352660412134862
+Variation in converged probabilities: 0.13906411835317262
+
+Bayesian Network: 50p.json, Method: gs, Evidence: {'6': 1}
+Mean run time: 1.52273052079337
+Standard deviation of run time: 0.12572295316994464
+Variation in converged probabilities: 0.19721996444253162
+
+Bayesian Network: 50p.json, Method: mh_0.75, Evidence: {'6': 1}
+Mean run time: 2.9945542131151472
+Standard deviation of run time: 0.29066715307870133
+Variation in converged probabilities: 0.15655061871014944
+
+Bayesian Network: 50p.json, Method: mh_0.85, Evidence: {'6': 1}
+Mean run time: 2.5787858963012695
+Standard deviation of run time: 0.2834855278512819
+Variation in converged probabilities: 0.16970049505568544
+
+Bayesian Network: 50p.json, Method: mh_0.95, Evidence: {'6': 1}
+Mean run time: 1.9234185218811035
+Standard deviation of run time: 0.22914071443057832
+Variation in converged probabilities: 0.18531239797152477
+
+Bayesian Network: 50d.json, Method: Exact inference, Evidence: {'4': 0}
+Mean run time: 0.3179567200796945
+Standard deviation of run time: 0.004290230222537639
+
+Bayesian Network: 50d.json, Method: lw, Evidence: {'4': 0}
+Mean run time: 14.843045200620379
+Standard deviation of run time: 0.36192020400910263
+Variation in converged probabilities: 0.0727717363246509
+
+Bayesian Network: 50d.json, Method: gs, Evidence: {'4': 0}
+Mean run time: 2.8872639451708113
+Standard deviation of run time: 0.15286283633035608
+Variation in converged probabilities: 0.059153169018674616
+
+Bayesian Network: 50d.json, Method: mh_0.75, Evidence: {'4': 0}
+Mean run time: 5.813016380582537
+Standard deviation of run time: 0.8469093352621593
+Variation in converged probabilities: 0.060995773667634014
+
+Bayesian Network: 50d.json, Method: mh_0.85, Evidence: {'4': 0}
+Mean run time: 4.780792883464268
+Standard deviation of run time: 0.5450814654328974
+Variation in converged probabilities: 0.06024850601825793
+
+Bayesian Network: 50d.json, Method: mh_0.95, Evidence: {'4': 0}
+Mean run time: 3.626541784831456
+Standard deviation of run time: 0.30889675716886505
+Variation in converged probabilities: 0.061682974040867644
+
+Bayesian Network: 50d.json, Method: Exact inference, Evidence: {'5': 1}
+Mean run time: 0.32067486218043734
+Standard deviation of run time: 0.005955303222413948
+
+Bayesian Network: 50d.json, Method: lw, Evidence: {'5': 1}
+Mean run time: 15.043476070676531
+Standard deviation of run time: 0.23015927425242816
+Variation in converged probabilities: 0.07085382550701687
+
+Bayesian Network: 50d.json, Method: gs, Evidence: {'5': 1}
+Mean run time: 2.9122586250305176
+Standard deviation of run time: 0.12261010619322012
+Variation in converged probabilities: 0.055107554017046145
+
+Bayesian Network: 50d.json, Method: mh_0.75, Evidence: {'5': 1}
+Mean run time: 5.811264957700457
+Standard deviation of run time: 0.9059652319679252
+Variation in converged probabilities: 0.06202797559405746
+
+Bayesian Network: 50d.json, Method: mh_0.85, Evidence: {'5': 1}
+Mean run time: 4.7628196648189
+Standard deviation of run time: 0.4930368376212685
+Variation in converged probabilities: 0.060325712473760854
+
+Bayesian Network: 50d.json, Method: mh_0.95, Evidence: {'5': 1}
+Mean run time: 3.6895205293382918
+Standard deviation of run time: 0.378885881727188
+Variation in converged probabilities: 0.06086425177756153
+
+Bayesian Network: 100p.json, Method: Exact inference, Evidence: {'3': 1}
+Mean run time: 0.3199366160801479
+Standard deviation of run time: 0.0047009030581258065
+
+Bayesian Network: 100p.json, Method: lw, Evidence: {'3': 1}
+Mean run time: 17.886388540267944
+Standard deviation of run time: 0.34088562287483154
+Variation in converged probabilities: 0.07440321472061566
+
+Bayesian Network: 100p.json, Method: gs, Evidence: {'3': 1}
+Mean run time: 3.107262986046927
+Standard deviation of run time: 0.240430159078566
+Variation in converged probabilities: 0.07479476606630986
+
+Bayesian Network: 100p.json, Method: mh_0.75, Evidence: {'3': 1}
+Mean run time: 6.280712740761893
+Standard deviation of run time: 1.2052590277267086
+Variation in converged probabilities: 0.056775931931444416
+
+Bayesian Network: 100p.json, Method: mh_0.85, Evidence: {'3': 1}
+Mean run time: 5.122341292245047
+Standard deviation of run time: 0.817026659493256
+Variation in converged probabilities: 0.06697558717498733
+
+Bayesian Network: 100p.json, Method: mh_0.95, Evidence: {'3': 1}
+Mean run time: 3.933908224105835
+Standard deviation of run time: 0.5769726876092124
+Variation in converged probabilities: 0.07055669598018174
+
+Bayesian Network: 100p.json, Method: Exact inference, Evidence: {'4': 0}
+Mean run time: 0.32492262976510183
+Standard deviation of run time: 0.00706851293391113
+
+Bayesian Network: 100p.json, Method: lw, Evidence: {'4': 0}
+Mean run time: 17.455838544028147
+Standard deviation of run time: 0.780862891201642
+Variation in converged probabilities: 0.07101354036300235
+
+Bayesian Network: 100p.json, Method: gs, Evidence: {'4': 0}
+Mean run time: 3.7863961969103133
+Standard deviation of run time: 0.22502737730136832
+Variation in converged probabilities: 0.07306729300968459
+
+Bayesian Network: 100p.json, Method: mh_0.75, Evidence: {'4': 0}
+Mean run time: 6.020746231079102
+Standard deviation of run time: 0.884031890630957
+Variation in converged probabilities: 0.056606415414100573
+
+Bayesian Network: 100p.json, Method: mh_0.85, Evidence: {'4': 0}
+Mean run time: 4.971252884183611
+Standard deviation of run time: 0.692161731917529
+Variation in converged probabilities: 0.06308337343097982
+
+Bayesian Network: 100p.json, Method: mh_0.95, Evidence: {'4': 0}
+Mean run time: 3.624694960457938
+Standard deviation of run time: 0.3882299390928478
+Variation in converged probabilities: 0.06971699140258555
+
+Bayesian Network: 100d.json, Method: Exact inference, Evidence: {'4': 0}
+Mean run time: 0.3203343663896833
+Standard deviation of run time: 0.0046670909225919365
+
+Bayesian Network: 100d.json, Method: lw, Evidence: {'4': 0}
+Mean run time: 31.748858179364884
+Standard deviation of run time: 0.5999162180734557
+Variation in converged probabilities: 0.11058713269091391
+
+Bayesian Network: 100d.json, Method: gs, Evidence: {'4': 0}
+Mean run time: 8.037129095622472
+Standard deviation of run time: 0.565548179405798
+Variation in converged probabilities: 0.06472190600216177
+
+Bayesian Network: 100d.json, Method: mh_0.75, Evidence: {'4': 0}
+Mean run time: 12.025539943150111
+Standard deviation of run time: 1.3215676384747475
+Variation in converged probabilities: 0.072421957456974
+
+Bayesian Network: 100d.json, Method: mh_0.85, Evidence: {'4': 0}
+Mean run time: 9.948032992226738
+Standard deviation of run time: 0.7453729080544204
+Variation in converged probabilities: 0.07212552930015795
+
+Bayesian Network: 100d.json, Method: mh_0.95, Evidence: {'4': 0}
+Mean run time: 7.499154329299927
+Standard deviation of run time: 0.6316362834530743
+Variation in converged probabilities: 0.07217045373645652
+
+Bayesian Network: 100d.json, Method: Exact inference, Evidence: {'5': 1}
+Mean run time: 0.32805303164890837
+Standard deviation of run time: 0.009077517488655925
+
+Bayesian Network: 100d.json, Method: lw, Evidence: {'5': 1}
+Mean run time: 33.50223922729492
+Standard deviation of run time: 0.9154294243281468
+Variation in converged probabilities: 0.11516367284601338
+
+Bayesian Network: 100d.json, Method: gs, Evidence: {'5': 1}
+Mean run time: 7.958692380360195
+Standard deviation of run time: 0.2627518438852257
+Variation in converged probabilities: 0.07049550290426805
+
+Bayesian Network: 100d.json, Method: mh_0.75, Evidence: {'5': 1}
+Mean run time: 12.376617874417986
+Standard deviation of run time: 1.785323647392328
+Variation in converged probabilities: 0.07619992906857201
+
+Bayesian Network: 100d.json, Method: mh_0.85, Evidence: {'5': 1}
+Mean run time: 10.081260204315186
+Standard deviation of run time: 1.018643423828555
+Variation in converged probabilities: 0.0726934052814073
+
+Bayesian Network: 100d.json, Method: mh_0.95, Evidence: {'5': 1}
+Mean run time: 7.661459241594587
+Standard deviation of run time: 0.6208657571804977
+Variation in converged probabilities: 0.06837026700750817
+
+
