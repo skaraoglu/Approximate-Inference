@@ -9,9 +9,9 @@ network types.
 
 ## Usage of the functions
 
-* .\exp.py runs the experiment for LW, GS and MH (with p values of .75, .85 and .95) without evidence. Outputs "experiment_results.txt".
+* .\exp.py runs the experiment for LW, GS and MH for a single evidence.
+* .\exp2.py runs the experiment for LW, GS and MH (with p values of .75, .85 and .95) with evidence *(randomly selected root and leaf nodes). Outputs "experiment_evidence_results.txt" and from previous experiment "experiment_results.txt".
 * .\readResults.py needs "experiment_results.txt" file to read results for each method, calculate variances and writes the results to "read_results.txt"
-* .\exp2.py runs the experiment for LW, GS and MH (with p values of .75, .85 and .95) with evidence *(randomly selected root and leaf nodes). Outputs "experiment_evidence_results.txt"
 * .\readResultsEvidence.py needs "experiment_evidence_results.txt" file to read results for each method, calculate variances and writes the results to "read_evidence_results.txt"
 * .\plotResults.py requires "read_results.txt" and "read_evidence_results.txt" files, creates and saves the plots for each test (5 in total) and saves to a .png file with method name.
 * .\cpt.py is a helper function to calculate relative effectiveness when CPT Entries are close to 0/1. Averages over each methods for given nodes in BN.
